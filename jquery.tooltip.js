@@ -1,8 +1,8 @@
 /*
  * 	ToolTip 1.0 - jQuery plugin
- *	written by Marcin Rosinski	
+ *	written by Marcin Rosinski - github.com/marcinrosinski
  *
- *	Copyright (c) 2012 Marcin Rosinski (http://www.33concept.com)
+ *	Copyright (c) 2012 Marcin Rosinski (http://www.feedoptimise.com)
  *	Dual licensed under the MIT (MIT-LICENSE.txt)
  *	and GPL (GPL-LICENSE.txt) licenses.
  *
