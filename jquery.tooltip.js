@@ -8,7 +8,6 @@
  *
  *	Built for jQuery library
  *	http://jquery.com
- *
  */
 
 (function($) {
